@@ -11,6 +11,8 @@ module.exports = {
     description: `Direto ao ponto e do jeito certo.`,
   },
   plugins: [
+    `gatsby-plugin-sharp`, 
+    `gatsby-transformer-sharp`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-sitemap`,
     {
