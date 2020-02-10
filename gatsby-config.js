@@ -49,11 +49,7 @@ module.exports = {
       options: {
         fonts: [
           {
-            family: `Oswald`,
-            subsets: [`latin`],
-          },
-          {
-            family: `Open Sans`,
+            family: `Nunito`,
             variants: [`400`, `700`]
           },
         ],
